@@ -1,11 +1,27 @@
 ![mage](https://github.com/user-attachments/assets/9f498842-378f-4e57-ad87-8bb22e41dd6e)
 
 
-Me chamo Vinicius Aguiar, formado no curso de Análise e desenvolvimento de Sistemas pela faculdade Pitágoras, atualmente cursando Pós-Graduação em Tecnologias Java. <br>
+### 👨‍💻 Sobre Mim
 
-Na área de desenvolvimento estive por 8 anos na Secretaria de Defesa Social (SEDS) do estado de Minas Gerais, onde pude desenvolver e implementar soluções tecnológicas para demandas operacionais de controle de acesso, controle de pertences, agenda de atendimentos, organização e gerenciamento de atividades individuais e rotina das equipes. Atuei na criação de bancos de dados para cada aplicação,utilizando MySQL, MongoDB e PostgreSQL, no desenvolvimento sistemas web utilizando HTML, CSS, Java utilizando Spring Framework, JavaScript, TypeScript, PHP e Node.Js .Trabalhando diretamente em todas etapas do desenvolvimento, desde a análise de requisitos, regras de negócio , criação dos bancos de dados e APIs, até a implementação final de forma local na configuração de servidores utilizando Ubuntu Server. Pude colaborar na otimização a rotina de trabalho e automatizar procedimentos defasados e manuais, apresenta as soluções aos funcionários e presta suporte em sua utilização.
+**Software Engineer | Java & Cloud Native Solutions**
 
-Descubra como minhas habilidades e experiências podem agregar valor aos seus projetos. Explore meu portfólio e veja como posso contribuir para a criação de soluções que tragam impacto real. <br>
+Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduando em Arquitetura de Software e Java. Com uma sólida trajetória na área de tecnologia, atuo hoje focado no ecossistema Java e Spring Framework, construindo aplicações escaláveis e de alta performance. 
+
+Tenho experiência prática no modelo "Full Cycle", integrando a engenharia de backend com práticas avançadas de DevOps e infraestrutura em nuvem na AWS. Sou movido por desafios complexos, especialmente na liderança técnica de arquiteturas de microsserviços, implementação de mensageria assíncrona e modernização de sistemas legados pesados — incluindo a migração de arquiteturas robustas em Delphi para stacks modernas com Java, PostgreSQL e interfaces em Next.js e React. 
+
+Durante 8 anos, liderei o desenvolvimento de soluções operacionais e a administração de infraestrutura Linux na Secretaria de Segurança Pública de Minas Gerais. Hoje, aplico essa base sólida de resolução de problemas em ambientes críticos e de alta disponibilidade.
+
+### 🛠️ Minha Stack Tecnológica
+
+* **Backend & Arquitetura:** Java 17+, Spring Boot (Security, Data, Cloud), API REST, Arquitetura de Microsserviços, Clean Code, SOLID.
+* **DevOps & Cloud:** AWS (EC2, S3, RDS), Docker, Kubernetes, Terraform, CI/CD (GitHub Actions), Linux (Ubuntu Server).
+* **Dados & Mensageria:** PostgreSQL, MongoDB, Redis, RabbitMQ, Apache Kafka.
+* **Frontend:** Angular 16+, React.js, Next.js, TypeScript.
+* **Testes:** JUnit 5, Mockito.
+
+
+---
+📈 *Descubra como minhas habilidades podem agregar valor aos seus projetos. Explore meus repositórios abaixo e veja na prática as soluções que venho desenvolvendo.*<br>
 
 
 ## 🌐 Socials:
